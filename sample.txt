@@ -1,5 +1,6 @@
 to do:
 eat
-sleep
+awake
 code
 repeat
+totally
